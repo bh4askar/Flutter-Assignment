@@ -1,5 +1,7 @@
 # profile_making
 
+Assignment 2
+
 A new Flutter project.
 
 ## Getting Started
